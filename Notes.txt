@@ -1,0 +1,11 @@
+Python Espeak GUI By J~Net 2024
+
+
+sudo apt install -y espeak
+
+python tts.py
+
+
+/usr/bin/espeak --list-vvoices
+
+
